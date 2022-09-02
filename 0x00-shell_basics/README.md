@@ -4,3 +4,4 @@ Display current directory' contents in a long format
 Display directory contents including hidden files
 Display content directory contents
 Display content directory
+display content directory
